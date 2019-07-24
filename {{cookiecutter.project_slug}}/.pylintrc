@@ -1,0 +1,10 @@
+[MASTER]
+
+ignore=ccextender
+
+[MESSAGES CONTROL]
+
+disable=
+    no-self-use,
+    import-error,
+    no-else-return
